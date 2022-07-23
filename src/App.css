@@ -17,7 +17,13 @@
     color: var(--black);    
 }
 
+@font-face {
+  font-family: Gumela;
+  src: url("../src/fonts/*");
+} 
 
-  
-
-  
+* {
+  font-family: 'Gumela';
+  font-weight: normal;
+  font-size: 20px;
+}
