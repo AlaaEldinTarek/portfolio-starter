@@ -1,0 +1,6 @@
+{
+  "git.enabled": false,
+  "html.format.templating": true,
+  "eslint.format.enable": true,
+  "typescript.format.insertSpaceAfterTypeAssertion": true
+}
